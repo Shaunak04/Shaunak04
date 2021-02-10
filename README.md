@@ -1,6 +1,5 @@
 <h1 align="center">Shaunak Deshpande</h1>
-<img align="center" alt="coding-gif" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
-
+<img align="right" alt="coding-gif" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shaunak-deshpande&label=Profile%20views&color=131313&style=plastic" alt="amisha-mohapatra" /> </p>
 
 - 👨‍🎓 2nd year CSE Student @ VIT Chennai
