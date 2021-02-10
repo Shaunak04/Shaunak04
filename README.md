@@ -1,7 +1,10 @@
 <h1 align="center">Shaunak Deshpande</h1>
-<img align="right" alt="coding-gif" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shaunak-deshpande&label=Profile%20views&color=131313&style=plastic" alt="amisha-mohapatra" /> </p>
+<img align="right" alt="coding-gif" width="350" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 
+
+
+
+<h3 align="center"><u>About me -</u></h3>
 - 👨‍🎓 2nd year CSE Student @ VIT Chennai
 
 -  💻	Currently learning about Data Structures , Algorithms, Blockchain & CryptoCurrencies
@@ -16,3 +19,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaunak-deshpande&show_icons=true&theme=monokai" alt="shaunak-deshpande" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaunak-deshpande&theme=nightowl" alt="shaunak-deshpande" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shaunak-deshpande&label=Profile%20views&color=131313&style=plastic" alt="Shaunak04" /> </p>
