@@ -8,7 +8,7 @@
 <p></p>
 - 👀 Looking for help with Data Structures and Algorithms
 </p>
-<h3 align="center"><u>Connect with me:</u></h3><p align="center"><a href="www.linkedin.com/in/shaunak-deshpande-0340a71a6" target="blank"><img src="https://img.icons8.com/fluent/42/000000/linkedin.png"/ alt="LinkedIn-logo"></a><a href="https://github.com/Shaunak04"><img src="https://img.icons8.com/fluent/42/000000/github.png"/ alt="Github-logo"></a><a href="https://www.hackerrank.com/shaunak_04?hr_r=1"><img src="https://img.icons8.com/windows/42/26e07f/hackerrank.png"/ alt="HackerRank-logo"></a><a href="https://www.instagram.com/"><img src="https://img.icons8.com/fluent/42/000000/instagram-new.png"/ alt="Instagram-logo"></a>
+<h3 align="center"><u>Connect with me:</u></h3><p align="center"><a href="https://www.linkedin.com/in/shaunak-deshpande-0340a71a6/"><img src="https://img.icons8.com/fluent/42/000000/linkedin.png"/ alt="LinkedIn-logo"></a><a href="https://www.hackerrank.com/shaunak_04?hr_r=1"><img src="https://img.icons8.com/windows/42/26e07f/hackerrank.png"/ alt="HackerRank-logo"></a><a href="https://www.instagram.com/"><img src="https://img.icons8.com/fluent/42/000000/instagram-new.png"/ alt="Instagram-logo"></a>
   
   
 </p>
