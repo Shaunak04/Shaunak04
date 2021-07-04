@@ -21,8 +21,8 @@
 
 <h3 align="center"><u>Github Summary</u></h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaunak04&langs_count=8&layout=compact" alt="Shaunak04" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaunak04&langs_count=8&layout=compact&theme=highcontrast" alt="Shaunak04" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaunak04&show_icons=true&theme=monokai" alt="Shaunak04" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaunak04&show_icons=true&theme=highcontrast" alt="Shaunak04" /></p>
 
 
