@@ -2,9 +2,9 @@
 <img align="right" alt="coding-gif" width="450" height="230" src="https://codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif">
 
 <h3 align="center"><u>Hello 👋, I am Shaunak,</u></h3>
-- 👨‍🎓 2nd year CSE Student @ VIT Chennai
+- 👨‍🎓 3rd year CSE Student @ VIT Chennai
 <p></p>
-- 💻	Currently exploring Data Science and Computer Vision
+- 💻	Currently exploring Data Science 
 <p></p>
 - 👀 Looking for help with Data Structures and Algorithms
 </p>
