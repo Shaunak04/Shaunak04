@@ -2,13 +2,13 @@
 <img align="right" alt="coding-gif" width="450" height="230" src="https://codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif">
 
 <h3 align="center"><u>Hello 👋, I am Shaunak,</u></h3>
-- 👨‍🎓 3rd year CSE Student @ VIT Chennai
+- 👨‍🎓 4th year CSE Student @VIT Chennai
 <p></p>
-- 💻	Currently exploring Algorithms 
+- 💻 SDE Intern @GAP Inc
 <p></p>
-- 👀 Looking for help with Data Structures and Algorithms
+- 👀 Working on Microsoft Azure, Ansible scripts, and CI/CD
 </p>
-- 📚 Ready to collaborate on Web-Dev and Machine Learning projects
+- 📚 Can collaborate on Web-Dev, ML, Cloud related projects
 
 <h3 ><u>Connect with me:</u></h3><p ><a href="https://www.linkedin.com/in/shaunak-deshpande-0340a71a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ alt="LinkedIn-logo"></a>                       <a href="https://leetcode.com/shaunak04/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/ alt="LC-logo">                        </a><a href="https://discord.com/channels/Shaunakkk#0615"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/ alt="Instagram-logo"></a>
   
