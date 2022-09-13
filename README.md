@@ -4,11 +4,11 @@
 <h3 align="center"><u>Hello 👋, I am Shaunak,</u></h3>
 - 👨‍🎓 4th year CSE Student @VIT Chennai
 <p></p>
-- 💻 SDE Intern @GAP Inc
+- 💻 Embedded SDE intern @Texas Instruments |  Ex SDE Intern @GAP Inc
 <p></p>
 - 👀 Working on Microsoft Azure, Ansible scripts, and CI/CD
 </p>
-- 📚 Can collaborate on Web-Dev, ML, Cloud related projects
+- 📚 Can collaborate on Web-Dev, ML, Cloud, Algorithmic related projects
 
 <h3 ><u>Connect with me:</u></h3><p ><a href="https://www.linkedin.com/in/shaunak-deshpande-0340a71a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ alt="LinkedIn-logo"></a>                       <a href="https://leetcode.com/shaunak04/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/ alt="LC-logo">                        </a><a href="https://discord.com/channels/Shaunakkk#0615"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/ alt="Instagram-logo"></a>
   
